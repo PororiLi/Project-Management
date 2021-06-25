@@ -6,6 +6,9 @@ This repository is for management projects.
 ![study](https://img.shields.io/badge/-study-grey)
 `2021.02.02~` [Backjoon-Algorith] (https://github.com/PororiLi/Backjoon-Algorithm)
 
+![app](https://img.shields.io/badge/-app-grey)![devleop](https://img.shields.io/badge/-develop-green)
+`2021.05.06`~`2021.06.01` [plouf]
+
 
 
 
@@ -25,6 +28,6 @@ This repository is for management projects.
 
 
 ---
-<div style="text-align: right" color="gray">Readme form Designed by NEVA</div>
+<div style="text-align: right" color="gray">Readme form Reference by NEVA</div>
 
 
