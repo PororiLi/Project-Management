@@ -24,6 +24,6 @@ This repository is for management projects.
 
 
 
-<div style="text-align: right" color="blue"> Readme form Designed by NEVA</div>
+<div style="text-align: right" color="blue">Readme form Designed by NEVA</div>
 
 
