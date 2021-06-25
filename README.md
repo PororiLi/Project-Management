@@ -3,7 +3,8 @@
 This repository is for management projects.
 
 ## 2021
-
+![study](https://img.shields.io/badge/-study-grey)
+`2021.02.02~` [Backjoon-Algorith] (https://github.com/PororiLi/Backjoon-Algorithm)
 
 
 
